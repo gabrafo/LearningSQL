@@ -36,17 +36,17 @@ Happy coding!
 
 ## How to Use
 1. *Clone the repository:*
-   sh
+   ```sh
    git clone https://github.com/gabrafo/LearningSQL.git
-   
+   ```
    
 2. Navigate to the desired section:
-sh
+```sh
     cd LearningSQL/Exercises
 
     Explore and learn:
     Open the files and review the notes and exercises.
-
+```
 
 ## Contributing
 
