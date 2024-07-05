@@ -7,6 +7,7 @@ This repository is dedicated to notes and exercises from the Udemy course "SQL p
 *Course Title:* SQL para Análise de Dados: Do básico ao avançado  
 *Platform:* Udemy  
 *Instructor:* Midori Toyota
+*DBMS*: PostgreSQL
 
 ## Contents
 - *Setup*: The initial query used for configuring the PostgreSQL DB.
