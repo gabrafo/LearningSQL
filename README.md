@@ -22,7 +22,7 @@ The repository is organized as follows:
 - *FinalProject/:* Contains the implementation of the final project. It's not implemented yet.
 
 ## Disclaimer
-I am currently a backend web developer with a focus on Java, and my main interest is in improving my SQL skills. While data analysis is not my primary focus, I believe this course offers valuable insights and practical knowledge that are broadly applicable.
+I am currently a backend web developer with a focus on Java, and my main interest is in improving my SQL skills. While data analysis is not my primary focus, I believe this course offers valuable insights and practical knowledge that are broadly applicable. Besides, altough most of the repository documentation is in english, the exercises themselves are in portuguese.
 
 ## Acknowledgements
 Special thanks to the course instructor for providing a comprehensive and engaging learning experience. 
