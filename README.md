@@ -6,7 +6,7 @@ This repository is dedicated to notes and exercises from the Udemy course "SQL p
 ## Course Information
 *Course Title:* SQL para Análise de Dados: Do básico ao avançado  
 *Platform:* Udemy  
-*Instructor:* Midori Toyota
+*Instructor:* Midori Toyota  
 *DBMS*: PostgreSQL
 
 ## Contents
